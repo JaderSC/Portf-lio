@@ -104,7 +104,7 @@ a {
 .caixa-projetos {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 8rem;
+    gap: 2rem;
 }
 
 .card-projetos {
@@ -113,7 +113,6 @@ a {
     border: 2px solid #bbb;
     padding: 1rem;
     border-radius: 1rem;
-
     transition: transform 0.3s, background-color 0.3s;
     cursor: pointer;
 
